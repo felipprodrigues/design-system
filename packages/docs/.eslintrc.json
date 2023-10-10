@@ -1,0 +1,3 @@
+{
+  "extends": "@far-ui/eslint-config"
+}
