@@ -9,4 +9,4 @@ export * from "./components/TextArea";
 export * from "./components/Checkbox";
 export * from "./components/MultiStep";
 
-
+export * from './styles'
